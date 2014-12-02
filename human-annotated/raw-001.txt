@@ -1,9 +1,9 @@
-1818: While ((the proposal) won (a (slight majority))) , ((the (51-48 vote)) was (well short (of (the (two-thirds needed to approve (changes (in (the Constitution)))))))) .
+1818: While ((the proposal) won (a (slight majority))) , ((the (51-48 vote)) was (well short (of (the (two-thirds needed (to (approve (changes (in (the Constitution)))))))))) .
 3133: (By buying (the space) (in bulk) , (they obtain (discounts as high (as (50 %)) , (which they can pass on (to customers))))) .
 588: For (all (of 1988)) , ((the company) reported (an after-tax operating loss (of ($ 134,000)) (on (revenue (of ($ 593.5 million)))))) .
 1941: (COMMERCIAL PAPER) placed directly by (General Motors Acceptance Corp.) : (8.45 % 30 to 44 days) ; (8.25 % 45 to 73 days) ; (8.325 % 74 to 99 days) ; (7.75 % 100 to 179 days) ; (7.50 % 180 to 270 days) .
 1393: ((One (price-depressing development)) was (the (lower-than-expected increase (of only (0.2 %)) (in (the (consumer price index))) (for September)))) , an analyst said .
-196: ((Malaysia 's High Court) is expected to approve (the plan)) .
+196: ((Malaysia 's High Court) is expected (to (approve (the plan)))) .
 2832: ((Mr. Steinberg) made (a ($ 59.7 million profit)) (on (the (sale (to Disney) (of (his (investment (in (the (company (in 1984))))))))))) .
 2423: ((All the numbers) were adjusted (for (normal seasonal variations (in (building activity))))) .
 232: (I think (we did)) .
@@ -34,7 +34,7 @@
 2577: There were (two general reasons (for (the (mistaken monetary policy (of (the (past 30 years))))))) :
 2917: (All (the (precise types (of (federal aid (that will be sent (to California)))))) wo n't be determined (until ((state officials) make (specific requests) (to FEMA)))) , (agency officials) said .
 3135: But (WCRS added that (in (the (light (of (the (current uncertainty (in (the (equity markets))))))))) , (it has arranged (medium-term debt financing)) , which would be (underwritten (by (Samuel Montagu & Co. Ltd)))) .
-2608: ((Susan Rogin) , (a (consultant (to (abortion-rights (activists (in (the state)))))))) , takes comfort (from (the (fact (that (the (state 's (House abortion opponents))) have n't been able to (muster (the votes to overturn (a (veto (on abortion))) (in (16 years)))))))) .
+2608: ((Susan Rogin) , (a (consultant (to (abortion-rights (activists (in (the state)))))))) , takes comfort (from (the (fact (that (the (state 's (House abortion opponents))) have n't been able (to (muster (the votes to overturn (a (veto (on abortion))) (in (16 years))))))))) .
 1570: (Mercury also said (it extended (its (two-year advisory relationship (with (Montgomery Securities (of (San Francisco)))))))) .
 365: (I 'm not certain) .
 1639: ((State officials) could n't be reached (for comment) late yesterday) .

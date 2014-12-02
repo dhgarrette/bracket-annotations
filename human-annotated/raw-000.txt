@@ -43,7 +43,7 @@
 1915: (The government , (campaigning (against (fixed brokerage commissions))) , promptly sued (the CBOE) (over (its (minimum-fee system)))) .
 3381: (Ford has signaled (it might acquire (a (majority interest)) later)) .
 731: (That also is n't easy) .
-3279: (Finally , IBM had (to delay (the (introduction (of some high-end disk drives , (which account (for (10 % of (its ($ 60 billion (of (annual revenue)))))))))))) .
+3279: (Finally , IBM had (to (delay (the (introduction (of some high-end disk drives , (which account (for (10 % of (its ($ 60 billion (of (annual revenue))))))))))))) .
 2466: ((Brawls between (union factions)) still erupt (at (Pemex installations))) .
 60: (You are absolutely wrong , however , in opining that this position is (some kind (of flip-flop)) , (something newly arrived at (as (a (result (of (reading (the (opinion polls))))))))) .
 657: We practically ran (our own studio) .
