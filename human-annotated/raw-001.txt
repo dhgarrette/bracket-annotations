@@ -1,50 +1,50 @@
-1818: While the proposal won a slight majority , the 51-48 vote was well short of the two-thirds needed to approve changes in the Constitution .
-3133: By buying the space in bulk , they obtain discounts as high as 50 % , which they can pass on to customers .
-588: For all of 1988 , the company reported an after-tax operating loss of $ 134,000 on revenue of $ 593.5 million .
-1941: COMMERCIAL PAPER placed directly by General Motors Acceptance Corp. : 8.45 % 30 to 44 days ; 8.25 % 45 to 73 days ; 8.325 % 74 to 99 days ; 7.75 % 100 to 179 days ; 7.50 % 180 to 270 days .
-1393: One price-depressing development was the lower-than-expected increase of only 0.2 % in the consumer price index for September , an analyst said .
-196: Malaysia 's High Court is expected to approve the plan .
-2832: Mr. Steinberg made a $ 59.7 million profit on the sale to Disney of his investment in the company in 1984 .
-2423: All the numbers were adjusted for normal seasonal variations in building activity .
-232: I think we did .
-713: This is the heyday of debt , says James Grant , editor of Grant 's Interest Rate Observer , a newsletter .
-1737: Separately , Century Bank , Phoenix , Ariz. , was closed by Arizona banking officials .
-1864: It 's no secret that Block dominates the mass-market tax-preparation business .
-94: Mr. Ngoc , 57 years old , had solid reformist credentials : He had lost his official position in the association in he early 1980s because he questioned the intrusion of politics into literature .
-426: Yesterday , Prudential-Bache Securities Inc. said it postponed a $ 220 million senior subordinated debenture offering by York International Corp .
-3591: Congress authorized $ 50 billion to be borrowed to pay for the thrift bailout .
-462: Junk bond price climbed yesterday despite skittishness in the new-issue market for high-yield securities .
-3641: Municipal bonds ended about 1\/8 to 3\/8 point lower , hurt by the circulation of two bid-wanted lists totaling $ 655 million .
-3534: The economic dislocation was as abrupt as the earthquake itself , as virtually all businesses shut down .
-567: The Packwood plan , as expected , would allow individuals to exclude from income 5 % of the gain from the sale of a capital asset held for more than one year .
-2759: Oil prices initially rose on fears that the massive earthquake in Northern California would disrupt production .
-1260: Guaranteed by Societe Generale .
-2150: COMPARE P\/E RATIOS WITH PROSPECTS .
-2260: Sir Richard Butler , 60-year-old chairman of Agricola -LRB- U.K . -RRB- Ltd. , was named chairman of County NatWest Investment Management Ltd. , the investment management subsidiary of County NatWest Ltd. , the investment banking arm of this British bank .
-1003: Many retailers fear a price war will erupt if cash-strapped companies such as Campeau Corp. slash tags to spur sales .
-3872: UAL , the parent company of United Airlines , swung within a 14-point range during the course of the session before closing at 191 3\/4 , down 6 1\/4 , on 2.3 million shares .
-3006: Several factors apparently spared the Valley -- a sprawling suburban stretch from San Jose to Palo Alto -- from the kind of impact felt in San Francisco , an hour 's drive north .
-2018: However , HealthVest said the Tokyo bank indicated that it wo n't accelerate HealthVest 's $ 50 million loan .
-1132: Pitney Bowes acquired the core of what evolved into Wheeler Group in 1979 by buying Dictaphone Corp .
-3292: Pacific Gas & Electric Co. fell 37.5 cents to $ 19.625 .
-249: But many economists were not nearly as jubilant .
-1661: Obviously , pride sells in Texas , says a spokeswoman for Bozell Inc. , Omaha , Neb. , which represents
-1062: He also called on Nicaragua 's neighbors to accept a military equilibrium guaranteed by both superpowers .
-3604: But when the Dow Jones Industrial Average rose instead , bonds drifted lower .
-2577: There were two general reasons for the mistaken monetary policy of the past 30 years :
-2917: All the precise types of federal aid that will be sent to California wo n't be determined until state officials make specific requests to FEMA , agency officials said .
-3135: But WCRS added that in the light of the current uncertainty in the equity markets , it has arranged medium-term debt financing , which would be underwritten by Samuel Montagu & Co. Ltd .
-2608: Susan Rogin , a consultant to abortion-rights activists in the state , takes comfort from the fact that the state 's House abortion opponents have n't been able to muster the votes to overturn a veto on abortion in 16 years .
-1570: Mercury also said it extended its two-year advisory relationship with Montgomery Securities of San Francisco .
-365: I 'm not certain .
-1639: State officials could n't be reached for comment late yesterday .
-2718: Tandem 's pricing is just as aggressive .
-2705: Maybe we should take it as a compliment .
-217: A year ago this fall , New Jersey voters under 30 favored George Bush by 56 % to 39 % over Michael Dukakis , according to a survey then by Rutgers University 's Eagleton Institute .
-1014: K mart Corp. Chairman Joseph E. Antonini summed up his outlook for the Christmas season as not troublesome .
+1818: While ((the proposal) won (a (slight majority))) , ((the (51-48 vote)) was (well short (of (the (two-thirds needed to approve (changes (in (the (Constitution))))))))) .
+3133: (By buying (the space) (in bulk) , (they obtain (discounts as high (as (50 %)) , (which they can pass on (to customers))))) .
+588: For (all (of 1988)) , ((the company) reported (an after-tax operating loss (of ($ 134,000)) (on (revenue (of ($ 593.5 million)))))) .
+1941: (COMMERCIAL PAPER) placed directly by (General Motors Acceptance Corp.) : (8.45 % 30 to 44 days) ; (8.25 % 45 to 73 days) ; (8.325 % 74 to 99 days) ; (7.75 % 100 to 179 days) ; (7.50 % 180 to 270 days) .
+1393: ((One (price-depressing development)) was (the (lower-than-expected increase (of only (0.2 %)) (in (the (consumer price index))) (for September)))) , an analyst said .
+196: ((Malaysia 's High Court) is expected to approve (the plan)) .
+2832: ((Mr. Steinberg) made (a ($ 59.7 million profit)) (on (the (sale (to Disney) (of (his (investment (in (the (company (in 1984))))))))))) .
+2423: ((All the numbers) were adjusted (for (normal seasonal variations (in (building activity))))) .
+232: (I think (we did)) .
+713: ((This is (the (heyday (of debt)))) , says (James Grant , (editor (of (Grant 's Interest Rate Observer , (a newsletter)))))) .
+1737: (Separately , (Century Bank , Phoenix , Ariz.) , was closed (by (Arizona banking officials))) .
+1864: (It 's no secret (that Block dominates (the (mass-market tax-preparation business)))) .
+94: ((((Mr. Ngoc) , (57 years old)) ,) had (solid reformist credentials)) : (He had lost (his (official position (in (the association)))) (in (he (early 1980s))) (because (he questioned (the intrusion of politics into literature)))) .
+426: Yesterday , ((Prudential-Bache Securities Inc.) said it postponed (a ($ 220 million) senior subordinated debenture offering (by (York International Corp)))) .
+3591: (Congress authorized $ 50 billion to be (borrowed (to (pay (for (the (thrift bailout))))))) .
+462: ((Junk bond price) climbed yesterday despite (skittishness (in (the (new-issue market (for (high-yield securities))))))) .
+3641: ((Municipal bonds) ended (about (1\/8 to 3\/8 point lower)) , hurt (by (the (circulation (of (two bid-wanted lists totaling ($ 655 million))))))) .
+3534: ((The (economic dislocation)) was as abrupt (as (the (earthquake itself))) , (as (virtually all businesses (shut down)))) .
+567: ((The (Packwood plan)) , as expected , would allow individuals (to (exclude (from (income 5 % (of (the (gain (from (the (sale (of ((a (capital asset)) held (for (more than (one year)))))))))))))))) .
+2759: ((Oil prices) initially rose (on (fears (that (the (massive earthquake (in (Northern California)))) would disrupt production)))) .
+1260: (Guaranteed (by (Societe Generale))) .
+2150: (COMPARE P\/E RATIOS WITH PROSPECTS) .
+2260: ((Sir Richard Butler , 60-year-old (chairman (of (Agricola -LRB- U.K . -RRB- Ltd.)))) , was named (chairman (of ((County NatWest Investment Management Ltd.) , (the (investment management subsidiary (of (County NatWest Ltd.) , (the (investment banking arm (of (this (British bank)))))))))))) .
+1003: ((Many retailers) fear ((a (price war)) will erupt if ( (cash-strapped companies (such as (Campeau Corp.))) slash tags (to (spur sales))))) .
+3872: ((UAL , (the (parent company (of (United Airlines)))) ,) swung within (a (14-point range)) (during (the (course (of (the (session)))))) (before (closing (at (191 3\/4)) , (down 6 1\/4) , (on 2.3 million shares)))) .
+3006: ((Several factors) apparently spared (the Valley -- (a (sprawling suburban stretch (from (San Jose)) (to (Palo Alto)))) --) (from (the (kind of impact felt (in (San Francisco , (an hour 's drive north))))))) .
+2018: However , (HealthVest said ((the (Tokyo bank)) indicated (that (it wo n't accelerate (HealthVest 's ($ 50 million loan)))))) .
+1132: ((Pitney Bowes) acquired (the (core (of (what evolved (into (Wheeler Group)))))) (in 1979) (by (buying (Dictaphone Corp)))) .
+3292: ((Pacific Gas & Electric Co.) fell (37.5 cents) (to ($ 19.625))) .
+249: But (many economists) were not nearly (as jubilant) .
+1661: Obviously , (pride sells (in Texas)) , says (a (spokeswoman (for (Bozell Inc. , (Omaha , Neb.) , (which represents)))))
+1062: He also called (on (Nicaragua 's neighbors (to (accept (a (military equilibrium guaranteed (by (both superpowers)))))))) .
+3604: But when (the (Dow Jones Industrial Average)) rose instead , (bonds drifted lower) .
+2577: There were (two general reasons (for (the (mistaken monetary policy (of (the (past 30 years))))))) :
+2917: (All (the (precise types (of (federal aid (that will be sent (to California)))))) wo n't be determined (until ((state officials) make (specific requests) (to FEMA)))) , (agency officials) said .
+3135: But (WCRS added that (in (the (light (of (the (current uncertainty (in (the (equity markets))))))))) , (it has arranged (medium-term debt financing)) , which would be (underwritten (by (Samuel Montagu & Co. Ltd)))) .
+2608: ((Susan Rogin) , (a (consultant (to (abortion-rights (activists (in (the state)))))))) , takes comfort (from (the (fact (that (the (state 's (House abortion opponents))) have n't been able to (muster (the votes to overturn (a (veto (on (abortion)))) (in (16 years)) .
+1570: (Mercury also said (it extended (its (two-year advisory relationship (with (Montgomery Securities (of (San Francisco)))))))) .
+365: (I 'm not certain) .
+1639: ((State officials) could n't be reached (for comment) late yesterday) .
+2718: ((Tandem 's pricing) is just as aggressive) .
+2705: Maybe we should take it (as (a compliment)) .
+217: (A year ago (this fall)) , ((New Jersey) voters (under 30)) favored (George Bush) (by (56 % to 39 %)) (over (Michael Dukakis)) , according (to (a (survey then (by (Rutgers University 's (Eagleton Institute)))))) .
+1014: (K mart Corp. Chairman (Joseph E. Antonini)) summed up (his outlook (for (the (Christmas season)))) (as (not troublesome)) .
 316: Sure .
-3471: Federal National Mortgage Association --
-2063: Independent directors would be able to block transactions they unanimously deem would be likely to depress the private market value of LIN at the time it is to be sold in five years .
+3471: (Federal National Mortgage Association) --
+2063: ((Independent directors) would be able (to block (transactions (they unanimously deem would be likely to depress (the private market value of LIN) (at (the (time (it is to be sold (in (five years)))))))))) .
 1760: Storehouse gained 2 to
-194: Both episodes wiped out Bank Bumiputra 's shareholders ' funds .
-422: Some industry groups consistently weather the storm better than others .
+194: (Both episodes) wiped out (Bank Bumiputra 's shareholders ' funds) .
+422: ((Some industry groups) consistently weather (the storm) (better than others)) .
