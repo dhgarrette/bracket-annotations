@@ -18,33 +18,33 @@
 978: (In (composite trading (on (the (Big Board))) , ((Bell Atlantic) closed (at ($ 100.625)) , (up ($ 1.50 a share))))) .
 1542: ((The theory) relies (on (three assumptions))) :
 2168: ((Excluding (tax credits)) , profit was (6 % below (the (second quarter)))) .
-1051: Even Carlos Manuel Castillo -- the presidential candidate for Mr. Arias 's National Liberation Party -- made public his opposition to the presence of Nicaragua in a democratic festivity .
-3015: Meanwhile , several other major installations around the Valley -- America 's center of high-tech -- said they , too , fared as well as could be expected .
-164: Revenue rose 24 % to $ 18.73 billion from $ 15.09 billion .
-396: Greg Confair , president of Sigma Financial Inc. in Allentown , Pa. , also recommends that investors go heavily for cash .
-3728: But ultimately he was undone by forces unleashed by his own comrade , Mr. Gorbachev .
-3819: At the current price , the USAir holding represents 9 % of all the assets that Mr. Steinhardt manages .
-1353: The split comes in the midst of a court battle over whether the San Diego Yacht Club should be allowed to keep the international trophy for sailing a catamaran against the New Zealand challengers ' 90-foot monohull .
-2431: Revenue advanced 26 % to $ 9.6 billion from $ 7.6 billion .
-1530: This phenomenon often makes stock prices swing wildly at the end of the trading session .
-2509: If it causes management to take their eye off the ball , inventory shrinkage is going to be affected , says Lewis Shealy , vice president for loss prevention at Marshall Field 's , the department store chain .
-3485: # 200 million of undated variable-rate notes priced at par via Merill Lynch International Ltd .
-2971: Once you 're Miss America , you 're always Miss America .
-1228: Most of the commodity traffic was off , the company said .
-106: Her success , which included alleviating an urban food shortage in the early 1980s , helped persuade Hanoi to take the reform path .
-1139: Red tractors gingerly picked at the rubble while jackhammers tried to break up some of the massive slabs of concrete .
-938: Lufthansa AG said passenger volume climbed 5.2 % for the first nine months of 1989 to 15.3 million passengers from 14.5 million passengers in the year-earlier period .
-218: A matching Eagleton-Newark Star Ledger poll last month showed a complete reversal .
-3038: Leading the assault against the Egg King has been United Egg Producers .
-3796: There are no commercials to make up for since we 're going to eventually broadcast the World Series , said a network spokesman .
-392: And , like corporates , many municipal bonds are callable .
-3192: A three-year-old Brooklyn boy was used as a shield by a drug dealer .
-3334: Consider , for example , what happened to Maxwell House coffee .
-2704: They 're deliberately trying to steal our thunder , a Digital executive complains .
-2265: Following are excerpts from the electronic traffic that night .
-2380: In London , the Financial Times-Stock Exchange 100-share index jumped 34.6 points to close at its intraday high of 2170.1 .
-1362: After all , farmers here work with hazardous chemicals every day , many of them the same chemicals that would have been destroyed in the incinerator .
-78: Warned he was to be jailed again , he fled to the countryside .
-467: Away from the general obligation sector , activity was modest .
-128: The only significant commercial banana farmers in the U.S. are in Hawaii .
-3607: Interest rates barely budged from Tuesday 's levels .
+1051: (Even ((Carlos Manuel Castillo) -- (the (presidential candidate (for (Mr. Arias 's (National Liberation Party))))) --) made public (his (opposition (to (the (presence (of Nicaragua) (in (a (democratic festivity))))))))) .
+3015: Meanwhile , ((several other (major installations (around (the Valley -- (America 's center (of high-tech)))))) --) said (they , too , fared as well as could be expected) .
+164: (Revenue rose (24 %) (to ($ 18.73 billion)) (from ($ 15.09 billion))) .
+396: (((Greg Confair) , (president (of (Sigma Financial Inc. (in (Allentown , Pa.))))) ,) also recommends (that (investors go heavily (for cash)))) .
+3728: (But ultimately he was undone (by (forces unleashed (by (his own comrade , (Mr. Gorbachev)))))) .
+3819: At (the (current price)) , ((the (USAir holding)) represents (9 %) (of (all the assets that (Mr. Steinhardt manages)))) .
+1353: ((The split) comes (in (the (midst (of (a (court battle (over (whether (the (San Diego Yacht Club)) should be allowed (to (keep (the (international trophy)) (for (sailing (a (catamaran)) (against (the (New Zealand challengers ' (90-foot monohull))))))))))))))))) .
+2431: (Revenue advanced (26 %) (to ($ 9.6 billion)) (from ($ 7.6 billion))) .
+1530: ((This phenomenon) often makes ((stock prices) swing wildly (at (the (end (of (the (trading session)))))))) .
+2509: If (it causes management (to (take (their eye) (off (the ball))))) , ((inventory shrinkage) is going to be affected) , (says (Lewis Shealy , (vice president (for (loss prevention)) (at (Marshall Field 's , (the (department store) chain)))))) .
+3485: (# 200 million (of (undated variable-rate notes (priced (at par (via (Merill Lynch International Ltd))))))) .
+2971: Once (you 're (Miss America)) , (you 're always (Miss America)) .
+1228: (Most of (the (commodity traffic)) was off) , ((the company) said) .
+106: (((Her (success , (which (included (alleviating (an (urban food shortage)) (in (the (early 1980s)))))))) ,) helped persuade Hanoi (to (take (the (reform path))))) .
+1139: (((Red tractors) gingerly picked (at (the rubble))) while (jackhammers tried (to (break up (some of (the (massive slabs (of concrete)))))))) .
+938: ((Lufthansa AG) said ((passenger volume) climbed (5.2 %) (for (the (first nine months (of 1989)))) (to (15.3 million passengers)) (from (14.5 million passengers)) (in (the (year-earlier period))))) .
+218: ((A (matching (Eagleton-Newark Star Ledger) poll (last month))) showed (a (complete reversal))) .
+3038: (Leading (the (assault (against (the (Egg King))))) has been (United Egg Producers)) .
+3796: (There are (no (commercials (to (make up for)))) (since (we 're going (to (eventually broadcast (the (World Series))))))) , said (a (network spokesman)) .
+392: And , (like corporates) , ((many (municipal bonds)) are callable) .
+3192: ((A (three-year-old Brooklyn boy)) was used (as (a shield)) (by (a (drug dealer)))) .
+3334: Consider , (for example) , what happened (to (Maxwell House coffee)) .
+2704: They 're deliberately trying (to (steal (our thunder))) , (a (Digital executive)) complains .
+2265: Following are (excerpts (from (the (electronic traffic (that night))))) .
+2380: In London , ((the (Financial Times-Stock Exchange 100-share index)) jumped (34.6 points) (to (close (at (its (intraday high (of 2170.1))))))) .
+1362: After all , ((farmers here) work (with (hazardous chemicals)) (every day)) , (many (of them) (the (same chemicals (that would have been destroyed (in (the incinerator)))))) .
+78: Warned he was (to be jailed again) , (he fled (to (the countryside))) .
+467: (Away (from (the (general obligation sector)))) , (activity was modest) .
+128: ((The only significant commercial banana farmers (in (the U.S.))) are (in Hawaii)) .
+3607: ((Interest rates) barely budged (from (Tuesday 's levels))) .
