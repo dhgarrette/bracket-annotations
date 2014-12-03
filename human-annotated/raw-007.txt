@@ -1,50 +1,50 @@
-2959: And while it 's too soon to tell how sales will fare in the important 1989 Christmas season , some companies take steps to ease the usual 11th-hour crush .
+2959: And while (it 's too soon to tell how sales will fare in (the important 1989 Christmas season)) , ((some companies) take steps to ease (the usual 11th-hour crush)) .
 638: George A. Wiegers
-2216: But by the third quarter of 1988 , Scorpios had a high satisfaction rating in internal Ford studies , a spokesman said .
-3061: These include Jennifer Tilly 's audition to be the Baker Boys ' girl singer .
-154: The bank charged off $ 53 million in loans during the quarter .
-257: Though analysts say competition will probably hold down increases in retail energy prices , many expect some of the wholesale rise to be passed along to the consumer before the end of the year .
-2943: Only three of the 25 corporate pension fund managers attending a Lowry Consulting Group client conference say they plan to change the asset allocation mix in their portfolios because of the market drop .
-885: And by late Friday afternoon , actually after the close , we decided that was the wrong tone to take .
-541: We do n't want to be party to a second rejection .
-3543: It is possible , of course , that some of the most seriously damaged companies could n't be reached , particularly in areas nearest the epicenter .
-1800: Digital Equipment 's profit fell 32 % in the latest quarter , prompting forecasts of weaker results ahead .
-3668: Nor is it a Hungary , where yesterday the parliament approved constitutional changes meant to help turn the Communist nation into a multiparty democracy .
-2224: The company had a loss from operations of $ 1.7 million .
-3662: In West Germany , investors stayed on the sidelines as the bond market searched for direction .
-355: Fear is the father of panic .
-3319: The 31-year-old homemaker adds , The only other thing I 'm really loyal to is my Virginia Slims cigarettes .
-3121: It implies very dramatic growth , he said .
-945: His last published novel featuring private detective Philip Marlowe , the inferior Playback -LRB- 1958 -RRB- , at times read almost like a parody of his previous work .
-1839: The market had anticipated a 0.4 % rise in the price index .
-239: Mr. Florio 's forcefulness on the abortion issue after the Webster ruling divides some of his old constituency .
-1767: To make them directly comparable , each index is based on the close of 1969 equaling 100 .
-631: In recent years , though , a passel of others flying the no-load flag have been imposing hefty charges -- all the way up to 6 % -- when an investor sells his shares .
-2087: And the fact that there are only 3,000 card-carrying Orange Workers may put them on the loony fringe .
-2304: I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .
-2737: Four more models , aimed squarely at IBM 's commercial customers , are expected to begin shipping in late June .
-738: But despite the credit enhancements , despite the high ratings , some money managers still worry that a recession could wreak havoc on the underlying assets .
-1689: Mr. Dell , meanwhile , concedes the company was definitely too optimistic in its expectations .
-2075: Many of the properties are owned through limited partnerships controlled by Mr. Helmsley .
-2792: The poverty threshold , defined as three times food expenses as calculated by the Agricultural Department , last year was $ 12,092 for a family of four .
-3392: We have to make it attractive enough that -LCB- holders -RCB- would accept it , Sir John said .
-3891: Revenue fell 12.7 % to $ 596.8 million from $ 684 million , although some of the decline was caused by discontinued operations .
-1160: As part of a restructuring announced earlier this year , the company proposed in August to exchange 168 newly issued common shares for each $ 1,000 face value of debt .
-3047: Mr. Maynard says the ruling pushed his company into bankruptcy court .
-2183: This is a step in the right direction , said Martin Piszczalski , a Yankee Group analyst .
+2216: (But by (the third quarter of 1988) , Scorpios had (a high satisfaction rating in (internal Ford studies))) , (a spokesman) said .
+3061: (These include ((Jennifer Tilly) 's (audition to be ((the Baker Boys) ' girl singer)))) .
+154: ((The bank) charged off ($ 53 million) (in loans) (during (the quarter))) .
+257: Though (analysts say (competition will probably hold down increases in retail energy prices)) , many expect (some of (the wholesale rise)) to be passed along to (the consumer) before (the end of (the year)) .
+2943: (Only three of (the 25 corporate pension fund managers attending a Lowry Consulting Group client conference)) say (they plan to change (the asset allocation mix in their portfolios) because of (the market drop)) .
+885: And by (late Friday afternoon) , actually after (the close) , we decided that was (the wrong tone to take) .
+541: We do n't want to be (party to (a second rejection)) .
+3543: It is possible , of course , that (some of the most seriously damaged companies) could n't be reached , particularly in (areas nearest the epicenter) .
+1800: (((Digital Equipment) 's profit) fell (32 %) in the latest quarter) , prompting (forecasts of (weaker results ahead)) .
+3668: Nor is it (a Hungary , where (yesterday (the parliament) approved (constitutional changes meant to help turn (the Communist nation) into (a multiparty democracy)))) .
+2224: (The company) had (a loss (from operations) (of $ 1.7 million)) .
+3662: In (West Germany) , investors stayed on (the sidelines) as ((the bond market) searched for direction) .
+355: Fear is (the father of panic) .
+3319: ((The 31-year-old homemaker) adds , (The only other thing I 'm really loyal to is my (Virginia Slims cigarettes))) .
+3121: ((It implies (very dramatic growth)) , he said) .
+945: (His last published novel featuring (private detective Philip Marlowe)) , (the inferior Playback -LRB- 1958 -RRB-) , at times read almost like (a parody of (his previous work)) .
+1839: ((The market) had anticipated (a 0.4 % rise in (the price index))) .
+239: (((Mr. Florio) 's (forcefulness (on the abortion issue) after (the Webster ruling))) divides (some of (his old constituency))) .
+1767: To make them directly comparable , (each index is based on (the close of 1969 equaling 100)) .
+631: In recent years , though , (a passel of others flying the no-load flag) have been imposing (hefty charges -- all the way up to 6 % --) when (an investor) sells (his shares) .
+2087: And (the fact that there are only (3,000 card-carrying Orange Workers)) may put them on (the loony fringe) .
+2304: I could also see (the clouds across (the bay) from (the horrible fire in (the Marina District of San Francisco))) .
+2737: (Four more models , aimed squarely at (IBM 's commercial customers)) , are expected to begin shipping in late June .
+738: But despite (the credit enhancements) , despite (the high ratings) , (some money managers) still worry that ((a recession) could wreak havoc on (the underlying assets)) .
+1689: (Mr. Dell) , meanwhile , concedes ((the company) was definitely too optimistic in (its expectations)) .
+2075: ((Many of (the properties)) are owned through (limited partnerships controlled by Mr. Helmsley)) .
+2792: (The poverty threshold) , defined as three times food expenses as calculated by the Agricultural Department , last year was $ 12,092 for (a family of four .
+3392: (We have to make it attractive enough that (-LCB- holders -RCB- would accept it)) , (Sir John) said .
+3891: Revenue fell 12.7 % (to ($ 596.8 million)) (from ($ 684 million)) , although (some of (the decline) was caused by (discontinued operations)) .
+1160: As part of (a restructuring announced earlier this year) , (the company) proposed in August to exchange (168 newly issued common shares) for (each $ 1,000 face value of debt) .
+3047: (Mr. Maynard) says ((the ruling) pushed (his company) (into (bankruptcy court))) .
+2183: ((This is (a step in the right direction)) , said (Martin Piszczalski , (a (Yankee Group) analyst))) .
 2793: Poverty remains far more widespread among blacks than other Americans .
-444: Yesterday , the Fed executed four-day matched sales , a technical trading operation designed to drain reserves from the banking system .
-3838: By the second half of 1990 , USAir stock could hit 60 , says Helane Becker of Shearson Lehman Hutton .
-156: The figures exclude businesses now organized as American Express Information Services Co .
-1508: It will be hard to do handstands until real linage starts heading back up .
-3812: Because of Tuesday 's earthquake in Northern California , company officials could n't immediately be reached for additional comment .
-3099: The average seven-day compound yield on the 400 taxable funds tracked by IBC\/Donoghue 's was 8.55 % in the latest week , down from 8.60 % .
-1040: Ashland expects that sale to be complete next year .
-1074: But in the light of events in Panama , where the U.S. has such clear strategic interests , waiting for the Delta Force may prove to be a dangerous gambit .
-2034: It would bring 13 gas fields into production at a combined rate of about 1.2 billion cubic feet a day .
-2502: Each new employee is expected to submit four daily in the first few months on the job .
-3600: Dr. Teich said Searle is the only company I know that voluntarily will make consumer information available .
-3716: Under the banner that proclaims the renewal of socialism , he said , forces are at work that are striving to eliminate socialism .
-1424: In a news release issued by Mr. Drivon , the trial lawyers association also promised free assistance to victims .
-2259: The time schedule for installing the equipment also will be developed by the task force , the company said .
-996: The industry 's chemical profits also declined because excess capacity has depressed prices .
+444: Yesterday , the Fed executed (four-day matched sales) , (a technical trading operation designed to drain reserves from the banking system) .
+3838: ((By (the second half of 1990) , (USAir stock) could hit 60) , says (Helane Becker of (Shearson Lehman Hutton))) .
+156: (The figures) exclude (businesses now organized as (American Express Information Services Co)) .
+1508: It will be hard to do handstands until (real linage starts heading back up) .
+3812: Because of (Tuesday 's earthquake in (Northern California)) , (company officials) could n't immediately be reached for (additional comment) .
+3099: (The average seven-day compound yield (on (the 400 taxable funds tracked by (IBC\/Donoghue 's)))) was 8.55 % in the latest week , down from 8.60 % .
+1040: Ashland expects (that sale) to be complete next year .
+1074: But in the light of (events in Panama) , where (the U.S.) has (such clear strategic interests) , waiting for (the Delta Force) may prove to be (a dangerous gambit) .
+2034: It would bring (13 gas fields) into production at (a combined rate of about 1.2 billion cubic feet a day) .
+2502: (Each new employee) is expected to submit four daily in the first few months on the job .
+3600: (Dr. Teich) said (Searle is the only company I know that voluntarily will make (consumer information) available) .
+3716: Under (the banner that proclaims (the renewal of socialism)) , he said , forces are at work that are striving to eliminate socialism .
+1424: In (a news release issued by Mr. Drivon) , (the trial lawyers association) also promised (free assistance to victims) .
+2259: ((The time schedule for installing the equipment) also will be developed by (the task force)) , (the company) said .
+996: ((The industry) 's chemical profits) also declined because ((excess capacity) has depressed prices) .
